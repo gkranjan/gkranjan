@@ -1,198 +1,111 @@
-# 👋 Hi, I'm Gautam Kumar Ranjan
+# 👨‍💻 Gautam Kumar Ranjan
+### Java Backend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF91&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Core+Java+%7C+OOP+%7C+Collections;Building+Backend+Applications;Learning+%7C+Coding+%7C+Growing" alt="Animated typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBF1FF,50:E8F5E9,100:FFF3E0&height=180&section=header&text=Java%20Backend%20Developer&fontSize=34&fontColor=263B50&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend%20Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-39FF91?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=2878A8&center=true&vCenter=true&width=650&lines=Building+Backend+Applications+with+Java;Core+Java+%7C+OOP+%7C+SQL;Writing+Clean+and+Maintainable+Code;Developing+Practical+Java+Projects" alt="Animated introduction" />
 </p>
 
 <p align="center">
+  <a href="mailto:gkranjan24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-DCEEFF?style=flat-square&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/gkranjan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DCEEFF?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
   <a href="https://github.com/gkranjan">
-    <img src="https://komarev.com/ghpvc/?username=gkranjan&label=PROFILE%20VIEWS&color=39FF91&style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-E8F5E9?style=flat-square&logo=github&logoColor=24292F" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm an aspiring Java Backend Developer focused on building strong programming fundamentals and developing practical backend applications.
+I am a Java Backend Developer focused on building structured, reliable, and maintainable applications.
 
-- ☕ Working with **Core Java and Java 8**
-- 🧩 Practicing **Object-Oriented Programming (OOP)**
-- 📚 Learning Java Collections, Lambda Expressions and Stream API
-- 🗄️ Practicing SQL and database concepts
-- 🧠 Improving problem-solving skills with Java DSA
-- 🚀 Building industry-inspired Java applications
-- 🎯 Working towards becoming a skilled Java Backend Developer
+- 💻 Working with Core Java and Java 8.
+- 🧩 Applying Object-Oriented Programming principles.
+- 🗄️ Working with SQL and relational database concepts.
+- 🔌 Practising interfaces, collections, lambda expressions, and functional programming.
+- 🚀 Building practical Java applications and backend-oriented projects.
+- 🤝 Interested in collaborating on Java and backend development projects.
 
----
+## 🛠️ Technology Stack
 
-## 🛠️ Technical Skills
-
-### ☕ Programming Languages
-
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
 </p>
 
-### 💻 Core Java
-
-![Core Java](https://img.shields.io/badge/Core%20Java-Advanced%20Practice-orange?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=flat-square)
-![Collections](https://img.shields.io/badge/Collections-Java%20Framework-green?style=flat-square)
-![Java 8](https://img.shields.io/badge/Java%208-Features-orange?style=flat-square)
-
-- Constructors, `this` and `super`
-- Inheritance, Polymorphism and Abstraction
-- Encapsulation and Interfaces
-- Exception Handling
-- Collections Framework
-- Generics
-- Lambda Expressions
-- Functional Interfaces
-- Stream API
-- File Handling and Serialization
-
-### 🗄️ Database Technologies
+### Java & Backend Concepts
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://img.shields.io/badge/Core%20Java-2E86C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java%208-2874A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-48A999?style=flat-square" />
+  <img src="https://img.shields.io/badge/Collections-5B8DB8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lambda%20Expressions-6C9B75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Functional%20Interfaces-6C9B75?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
 </p>
 
-- SQL Queries
-- Joins and Subqueries
-- Aggregate Functions
-- Group By and Having
-- Database Fundamentals
-
-### ⚙️ Backend Development
-
-The following are important areas in my backend learning roadmap:
+### Development Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,postman" height="45" />
+  <img src="https://skillicons.dev/icons?i=eclipse,git,github" height="48" alt="Development tools" />
 </p>
 
-- Spring Framework and Spring Boot
-- REST API Development
-- JDBC
-- Hibernate and JPA
-- CRUD Operations
-- MVC Architecture
-- API Testing with Postman
+## 🚀 Projects
 
-### 🔧 Development Tools
+### 1. ShopEasy – E-Commerce Application
+A Java-based e-commerce application designed with object-oriented programming and modular package structure.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,git,github,vscode" height="45" />
-</p>
-
-- Eclipse IDE
-- IntelliJ IDEA
-- Git and GitHub
-- Command Line
-
----
-
-## 🚀 Featured Projects
-
-### 1. 🛒 ShopEasy – E-Commerce Application
-
-**Technologies:** Core Java, OOP, Interfaces
-
+**Key components:**
 - Product management
-- Shopping cart operations
+- Shopping cart functionality
 - Order processing
-- Payment options
-- Service-based class structure
+- Payment interface
+- Cash on Delivery and UPI payment implementations
 
-### 2. 💳 Payment Processing System
+**Technologies:** Java, OOP, Interfaces
 
-**Technologies:** Java, Interfaces, Polymorphism
-
-- Multiple payment methods
-- Runtime polymorphism
-- Reusable payment processing
-- Interface-based implementation
-
-### 3. 📚 Java Programming Practice
-
-**Technologies:** Core Java, Collections, Java 8
-
-- Java coding exercises
-- OOP practical examples
-- Functional interfaces
-- Lambda and Stream API
-
-### 4. 🗄️ SQL Practice
-
-**Technologies:** SQL, MySQL
-
-- Joins
-- Subqueries
-- Aggregate functions
-- Real-world database queries
-
-> Add your actual project repository links to these sections as you publish them.
-
----
-
-## 📖 Currently Learning
-
-| Technology | Learning Focus |
-|---|---|
-| Core Java | Strong programming fundamentals |
-| Java 8 | Lambda, Functional Interfaces, Streams |
-| Collections | List, Set, Map, Queue |
-| SQL | Database queries and optimization fundamentals |
-| JDBC | Java database connectivity |
-| Spring Boot | Backend application development |
-| REST APIs | API development and testing |
-| DSA | Problem-solving and interview preparation |
-
----
+### 2. Java Backend Practice Projects
+Practical Java programs covering:
+- Object-Oriented Programming
+- Constructors and inheritance
+- Abstraction and polymorphism
+- Interfaces and marker interfaces
+- Collections and functional programming
+- SQL fundamentals
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gkranjan&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkranjan&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gkranjan&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=2878A8&icon_color=48A999&text_color=34495E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkranjan&layout=compact&hide_border=true&bg_color=F5FAFF&title_color=2878A8&text_color=34495E" height="165" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=gkranjan&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gkranjan&hide_border=true&background=F5FAFF&ring=48A999&fire=E6A23C&currStreakLabel=2878A8&sideLabels=34495E&dates=667788" width="70%" />
 </p>
 
----
+## 📫 Connect With Me
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gkranjan/gkranjan/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/gkranjan">
-    <img src="https://img.shields.io/badge/GitHub-gkranjan-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/gkranjan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+- **Email:** [gkranjan24@gmail.com](mailto:gkranjan24@gmail.com)
+- **LinkedIn:** [linkedin.com/in/gkranjan](https://www.linkedin.com/in/gkranjan/)
+- **GitHub:** [github.com/gkranjan](https://github.com/gkranjan)
 
 ---
 
 <p align="center">
-  <b>☕ Code. Learn. Build. Repeat.</b>
-  <br/>
-  <i>Every day is an opportunity to become a better developer.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3E0,50:E8F5E9,100:DBF1FF&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>Building solutions. Writing better code. Growing as a developer.</b>
 </p>
