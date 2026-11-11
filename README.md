@@ -217,16 +217,22 @@ I am a Java Backend Developer focused on building structured, reliable, and main
 
 <h3 align="center">🔥 Contribution Streak</h3>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gkranjan&hide_border=true&background=F5FAFF&ring=48A999&fire=E6A23C&currStreakLabel=2878A8&sideLabels=34495E&dates=667788" height="110" alt="Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=gkranjan&hide_border=true&background=F5FAFF&ring=48A999&fire=E6A23C&currStreakLabel=2878A8&sideLabels=34495E&dates=667788&timezone=Asia%2FKolkata&v=2"
+    height="110"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
 
 
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/2878A8/gkranjan"
+    src="https://ghchart.rshah.org/2878A8/gkranjan?v=2"
     alt="Gautam's GitHub Contribution Graph"
     width="90%"
   />
