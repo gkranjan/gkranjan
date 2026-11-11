@@ -147,8 +147,88 @@ I am a Java Backend Developer focused on building structured, reliable, and main
 <!-- PROJECT 2 -->
 
 <hr/>
+<h3>🚗 2. Vehicle Rental Management System</h3>
 
-<h3>☕ 2. Java Backend Practice Projects</h3>
+<p>
+A Java-based application for managing vehicle rentals, customer details, bookings, and rental operations.
+</p>
+
+<b>✨ Key Highlights</b>
+<ul>
+  <li>Vehicle and customer registration</li>
+  <li>Vehicle booking and rental fare calculation</li>
+  <li>Object cloning and serialization</li>
+  <li>Exception handling and input validation</li>
+  <li>Organized OOP-based application structure</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Java-8-orange?logo=java"/>
+<img src="https://img.shields.io/badge/OOP-Concepts-blue"/>
+<img src="https://img.shields.io/badge/Serialization-Implemented-green"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+<h3>🅿️ 3. Smart Parking & EV Charging Management System</h3>
+
+<p>
+A Java application for managing parking slots, vehicle entry, parking tickets, and electric vehicle charging.
+</p>
+
+<b>✨ Key Highlights</b>
+<ul>
+  <li>Automated parking slot allocation</li>
+  <li>Car and Electric Car management</li>
+  <li>Parking and EV charging fee calculation</li>
+  <li>Receipt generation using StringBuilder</li>
+  <li>Ticket cloning and serialization backup</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Java-8-orange?logo=java"/>
+<img src="https://img.shields.io/badge/OOP-blue"/>
+<img src="https://img.shields.io/badge/Cloneable-green"/>
+<img src="https://img.shields.io/badge/Serialization-success"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>👨‍💼 4.  Employee Management Application</h3>
+
+<p>
+A Java application for managing employee information and handling employee-related business operations.
+</p>
+
+<b>✨ Key Highlights</b>
+<ul>
+  <li>Employee management operations</li>
+  <li>Employee data validation</li>
+  <li>Custom exception implementation</li>
+  <li>Duplicate employee handling</li>
+  <li>Employee not found exception handling</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Java-orange?logo=java"/>
+<img src="https://img.shields.io/badge/Exception_Handling-red"/>
+<img src="https://img.shields.io/badge/Custom_Exceptions-blue"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+
+
+
+<h3>☕ 5. Java Backend Practice Projects</h3>
 
 <p>
   A collection of practical Java programs focused on strengthening programming logic,
